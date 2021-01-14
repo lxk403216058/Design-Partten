@@ -24,5 +24,4 @@ public class WebSiteFactory {
     public int getWebSiteCont() {
         return pool.size();
     }
-
 }
